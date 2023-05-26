@@ -16,6 +16,7 @@
 - run. seeder users ```sail artisan db:seed --class=UserSeeder ```
 - download npm ``` sail npm install ``` 
 - run npm ``` sail npm run dev ```
+- import postman collection
 ##
 
 # API
